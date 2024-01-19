@@ -1,0 +1,2 @@
+# Welcome to Data
+Please include all raw data here in addition to and transformed data. Make sure the data is appropriately named and make sure never to overwrite the raw data with transformed data. If your data is too large for github and cannot be stored here (e.g. large TIFF files), use this readme to store navigation to where these files can be found (e.g. dropbox / zenodo / public zip file source). Additionally, you can add data processing notes here or descriptions of the variables. 

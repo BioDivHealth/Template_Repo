@@ -15,7 +15,7 @@ library(viridisLite)
 # 2. Plot caret data ----
 (iris_scatter <- ggplot(datasets::iris) +
   aes(x = Sepal.Length, y = Sepal.Width, colour = Species) +
-  geom_point(shape = "circle", size = 3, alpha = 0.5) +
+  geom_point(shape = "triangle", size = 3, alpha = 0.5) +
   scale_color_viridis_d(option = "viridis", direction = 1) +
   labs(x = "Sepal Length (mm)",
     y = "Sepal Width (mm)",
